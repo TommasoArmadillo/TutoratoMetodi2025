@@ -9,7 +9,7 @@ I tutor del corso sono [Tommaso Armadillo](mailto:tommaso.armadillo@unimi.it) e 
 Esercizi su funzioni olomorfe, equazioni di Cauchy-Riemann e mappe conformi. [Esercizi svolti](materiale/27_3_25.pdf).
 
 - 3 Aprile 2025 - 10:30-12:30 Aula E - Alessandro Ruzza \
-Esercizi su C.R. in coordinate polari, funzioni multivalued e integrazione in campo complesso. [Esercizi svolti](material/03_4_24.pdf).
+Esercizi su C.R. in coordinate polari, funzioni multivalued e integrazione in campo complesso. [Esercizi svolti](material/03_4_25.pdf).
 
 - 10 Aprile 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo
 
