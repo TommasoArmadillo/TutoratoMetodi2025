@@ -15,9 +15,10 @@ Esercizi su C.R. in coordinate polari, funzioni multivalued e integrazione in ca
 Tutorial Mathematica: per richiedere una licenza Mathematica seguire le indicazioni a [questa pagina](https://work.unimi.it/servizi/servizi_tec/132244.htm), per scaricarlo collegarsi al proprio [portale utente](user.wolfram.com) e cliccare su download. Nel notebook `materiale/TutorialMathematica.nb` ci sono esempi di funzionalità base che potrebbero esservi utili nello studio. \
 Esercizi su integrali di linea in campo complesso, integrali di Fresnel. [Esercizi svolti](materiale/10_4_25.pdf).
 
-- 17 Aprile 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
+- 17 Aprile 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza \
+Esercizi su serie e sviluppi in serie di Taylor e Laurent. [Esercizi svolti](materiale/17_4_25.pdf)
 
-- 24 Aprile 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo 
+- 30 Aprile 2025 - 8:30-10:30 Aula Polvani - Tommaso Armadillo 
 
 - 8 Maggio 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
 
@@ -28,3 +29,5 @@ Esercizi su integrali di linea in campo complesso, integrali di Fresnel. [Eserci
 - 29 Maggio 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo 
 
 - 5 Giugno 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
+
+- ...
