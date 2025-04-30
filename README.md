@@ -4,6 +4,12 @@ Materiale per il tutorato del corso di [Metodi Matematici per la Fisica 2025 (CO
 
 I tutor del corso sono [Tommaso Armadillo](mailto:tommaso.armadillo@unimi.it) e [Alessandro Ruzza](mailto:alessandro.ruzza@unimi.it). 
 
+## Ricevimento
+Dal 6 Maggio 2025 ci saranno due ore di ricevimento a settimana in cui è possibile venire a chiedere chiarimenti e/o esercizi.
+
+- Martedì 13.30-14.30, Tommaso Armadillo, l'ufficio si trova al primo piano del LITA (dove c'è l'aula Polvani) a metà corridoio sulla destra. 
+- Mercoledì 13.30-14.30, Alessandro Ruzza, dalla portineria salite le scale, l'ufficio è quello con le porte a vetri in cima alle scale.
+
 ## Lezioni
 - 27 Marzo 2025 - 10:30-12:30 Aula 301 (settore didattico) - Tommaso Armadillo \
 Esercizi su funzioni olomorfe, equazioni di Cauchy-Riemann e mappe conformi. [Esercizi svolti](materiale/27_3_25.pdf).
@@ -18,11 +24,12 @@ Esercizi su integrali di linea in campo complesso, integrali di Fresnel. [Eserci
 - 17 Aprile 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza \
 Esercizi su serie e sviluppi in serie di Taylor e Laurent. [Esercizi svolti](materiale/17_4_25.pdf)
 
-- 30 Aprile 2025 - 8:30-10:30 Aula Polvani - Tommaso Armadillo 
+- 30 Aprile 2025 - 8:30-10:30 Aula Polvani - Tommaso Armadillo \
+Esercizi su teorema dei residui. [Esercizi svolti](materiale/30_4_25.pdf)
 
 - 8 Maggio 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
 
-- 15 Maggio 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo 
+- 15 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Tommaso Armadillo 
 
 - 22 Maggio 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
 
@@ -30,4 +37,6 @@ Esercizi su serie e sviluppi in serie di Taylor e Laurent. [Esercizi svolti](mat
 
 - 5 Giugno 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
 
-- ...
+- 12 Giugno 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo 
+
+- 26 Giugno 2025 - 10:30-12:30 **Aula Teorici** - Alessandro Ruzza
