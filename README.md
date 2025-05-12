@@ -27,7 +27,8 @@ Esercizi su serie e sviluppi in serie di Taylor e Laurent. [Esercizi svolti](mat
 - 30 Aprile 2025 - 8:30-10:30 Aula Polvani - Tommaso Armadillo \
 Esercizi su teorema dei residui. [Esercizi svolti](materiale/30_4_25.pdf)
 
-- 8 Maggio 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
+- 8 Maggio 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza \
+Esercizi su teorema dei residui, integrazione di funzioni con branch cuts e integrali in parte principale. [Esercizi svolti](materiale/08_5_25.pdf) 
 
 - 15 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Tommaso Armadillo 
 
