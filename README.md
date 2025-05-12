@@ -32,7 +32,7 @@ Esercizi su teorema dei residui, integrazione di funzioni con branch cuts e inte
 
 - 15 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Tommaso Armadillo 
 
-- 22 Maggio 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
+- 22 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Alessandro Ruzza 
 
 - 29 Maggio 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo 
 
