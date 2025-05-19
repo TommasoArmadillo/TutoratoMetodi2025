@@ -30,7 +30,8 @@ Esercizi su teorema dei residui. [Esercizi svolti](materiale/30_4_25.pdf)
 - 8 Maggio 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza \
 Esercizi su teorema dei residui, integrazione di funzioni con branch cuts e integrali in parte principale. [Esercizi svolti](materiale/08_5_25.pdf) 
 
-- 15 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Tommaso Armadillo 
+- 15 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Tommaso Armadillo \
+Esercizi su operatori lineari definiti su spazi di Hilbert finito dimensionali. [Esercizi svolti](materiale/15-5-2025.pdf)
 
 - 22 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Alessandro Ruzza 
 
