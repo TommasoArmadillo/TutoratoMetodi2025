@@ -34,6 +34,7 @@ Esercizi su teorema dei residui, integrazione di funzioni con branch cuts e inte
 Esercizi su operatori lineari definiti su spazi di Hilbert finito dimensionali. [Esercizi svolti](materiale/15-5-2025.pdf)
 
 - 22 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Alessandro Ruzza 
+Esercizi su operatori lineari definiti su spazi di Hilbert finito e infinito dimensionali. [Esercizi svolti](materiale/22_05_2025.pdf). In risposta ad un chiarimento chiesto da uno studente, alla fine del pdf è presente una ``spiegazione grafica" della disuguaglianza usata nella dimostrazione della disuguaglianza di Holden a pag.141 delle dispense del corso A.
 
 - 29 Maggio 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo 
 
