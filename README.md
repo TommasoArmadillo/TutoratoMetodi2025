@@ -31,12 +31,13 @@ Esercizi su teorema dei residui. [Esercizi svolti](materiale/30_4_25.pdf)
 Esercizi su teorema dei residui, integrazione di funzioni con branch cuts e integrali in parte principale. [Esercizi svolti](materiale/08_5_25.pdf) 
 
 - 15 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Tommaso Armadillo \
-Esercizi su operatori lineari definiti su spazi di Hilbert finito dimensionali. [Esercizi svolti](materiale/15-5-2025.pdf)
+Esercizi su operatori lineari definiti su spazi di Hilbert finito dimensionali. [Esercizi svolti](materiale/15_5_25.pdf)
 
-- 22 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Alessandro Ruzza 
-Esercizi su operatori lineari definiti su spazi di Hilbert finito e infinito dimensionali. [Esercizi svolti](materiale/22_05_2025.pdf). In risposta ad un chiarimento chiesto da uno studente, alla fine del pdf è presente una ``spiegazione grafica" della disuguaglianza usata nella dimostrazione della disuguaglianza di Holden a pag.141 delle dispense del corso A.
+- 22 Maggio 2025 - 10:30-12:30 **Aula Teorici** - Alessandro Ruzza \
+Esercizi su operatori lineari definiti su spazi di Hilbert finito e infinito dimensionali. [Esercizi svolti](materiale/22_05_25.pdf). In risposta ad un chiarimento chiesto da uno studente, alla fine del pdf è presente una ``spiegazione grafica" della disuguaglianza usata nella dimostrazione della disuguaglianza di Holden a pag.141 delle dispense del corso A.
 
-- 29 Maggio 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo 
+- 29 Maggio 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo \
+Esercizio su operatore lineare su $L^2(R)$. Esercizi su serie di Fourier. [Esercizi svolti](materiale/29_5_25.pdf)
 
 - 5 Giugno 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
 
