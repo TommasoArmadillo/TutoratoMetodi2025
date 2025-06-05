@@ -41,6 +41,6 @@ Esercizio su operatore lineare su $L^2(R)$. Esercizi su serie di Fourier. [Eserc
 
 - 5 Giugno 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
 
-- 12 Giugno 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo 
+- 10 Giugno 2025 - 8:30-10:30 **Aula Teorici** - Tommaso Armadillo 
 
-- 26 Giugno 2025 - 10:30-12:30 **Aula Teorici** - Alessandro Ruzza
+- 24 Giugno 2025 - 9:30-11:30 Aula Polvani - Alessandro Ruzza
