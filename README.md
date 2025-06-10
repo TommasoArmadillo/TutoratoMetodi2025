@@ -39,9 +39,9 @@ Esercizi su operatori lineari definiti su spazi di Hilbert finito e infinito dim
 - 29 Maggio 2025 - 10:30-12:30 Aula Polvani - Tommaso Armadillo \
 Esercizio su operatore lineare su $L^2(R)$. Esercizi su serie di Fourier. [Esercizi svolti](materiale/29_5_25.pdf)
 
-- 5 Giugno 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza \
+- 5 Giugno 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
 
-- 10 Giugno 2025 - 8:30-10:30 **Aula Teorici** - Tommaso Armadillo \ 
+- 10 Giugno 2025 - 8:30-10:30 **Aula Teorici** - Tommaso Armadillo \
 Esercizi su distribuzioni, definizioni, continuità, derivate, trasformate di Fourier, limiti. [Esercizi svolti](materiale/10_6_25.pdf)
 
-- 24 Giugno 2025 - 9:30-11:30 Aula Polvani - Alessandro Ruzza
+- 24 Giugno 2025 - 9:30-11:30 Aula Polvani - Alessandro Ruzza 
