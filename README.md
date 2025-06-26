@@ -40,8 +40,10 @@ Esercizi su operatori lineari definiti su spazi di Hilbert finito e infinito dim
 Esercizio su operatore lineare su $L^2(R)$. Esercizi su serie di Fourier. [Esercizi svolti](materiale/29_5_25.pdf)
 
 - 5 Giugno 2025 - 10:30-12:30 Aula Polvani - Alessandro Ruzza 
+Esercizi su trasformate di Fourier. [Esercizi svolti](materiale/05_06_2025.pdf) 
 
 - 10 Giugno 2025 - 8:30-10:30 **Aula Teorici** - Tommaso Armadillo \
 Esercizi su distribuzioni, definizioni, continuità, derivate, trasformate di Fourier, limiti. [Esercizi svolti](materiale/10_6_25.pdf)
 
 - 24 Giugno 2025 - 9:30-11:30 Aula Polvani - Alessandro Ruzza 
+Esercizi di riepilogo. [Esercizi svolti](materiale/24_06_2025.pdf)
